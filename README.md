@@ -1,2 +1,2 @@
 # ebenntiri.github.io
-Creation of my first website. Site was creating leveraging the coding capability of ChatGPT
+Creation of my first website. The site was created leveraging the coding capability obtained from the bootcamp.
